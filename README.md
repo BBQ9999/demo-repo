@@ -1,4 +1,7 @@
-#Demo
+# Demo
 
 Some Description!
-added somethign new
+
+## Local Development
+
+1. open index.html in your browser
